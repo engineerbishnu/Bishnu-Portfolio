@@ -1,10 +1,10 @@
-👋 Hi, I'm @engineerbishnu
-👀 I'm interested in Cloud Computing, DevOps, Network Engineering, and System Administration
-🌱 I'm currently learning advanced AWS services, Kubernetes orchestration, and improving my Infrastructure as Code skills with Terraform
-💞️ I'm looking to collaborate on open-source DevOps projects, cloud migration initiatives, and innovative networking solutions
-📫 How to reach me: nengineer02@gmail.com or connect with me on [Your preferred professional networking platform]
-😄 Pronouns: He/Him
-⚡ Fun fact: I've managed to seamlessly transition from Network Engineering to Cloud and DevOps, bringing a unique perspective to cloud infrastructure management!
+-   👋 Hi, I'm @engineerbishnu in git, But my actual name is Bishnu Thapa
+- 👀 I'm interested in Cloud Computing, DevOps, Network Engineering, and System Administration
+- 🌱 I'm currently learning advanced AWS services, Kubernetes orchestration, and improving my Infrastructure as Code skills with Terraform
+- 💞️ I'm looking to collaborate on open-source DevOps projects, cloud migration initiatives, and innovative networking solutions
+- 📫 How to reach me: nengineer02@gmail.com or connect with me on [Your preferred professional networking platform]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've managed to seamlessly transition from Network Engineering to Cloud and DevOps, bringing a unique perspective to cloud infrastructure management!
 
 # Bishnu Thapa
 Teku, Kathmandu | nengineer02@gmail.com
