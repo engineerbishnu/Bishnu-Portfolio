@@ -25,6 +25,7 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 - Collaborating on CI/CD pipelines using Jenkins and GitHub Actions
 - Collaborating on Monitoring using Prometheus, Grafana, ELK stack, DataDog & New Relic
 
+
 ### Network Administrator
 **UBA Solutions, Imadole** | July 11, 2023 - Current
 - Managed and maintained server infrastructure
@@ -37,6 +38,7 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 - Provide Supports & Manage on Network, Software, PC Hardware, Printers, PABX & CCTV NVR within office
 - Installed, configured, maintained Wireless Controllers, Access Points, Repeaters, Firewalls, etc. for UBA Solutions office
 
+
 ### System Administrator
 **Cloudsewa Nepal, Teku-Near Sukraraj Hospital, Kathmandu** | Jun 01, 2022 - Jun 30, 2023
 - Managed and maintained server infrastructure
@@ -44,6 +46,7 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 - Troubleshot complex system issues
 - Assisted in cloud migration projects
 - Maintaining Technical Documents, PoCs regarding RCA of system, website related issues.
+
 
 ### Network Engineer
 **Vianet Communication Ltd. Jawalakhel** | Jan 01, 2019- May 30, 2022
@@ -53,11 +56,13 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 - Troubleshoot complex network issues, Guide team and provide training or KTS sessions
 - Collaborated with cross-functional teams to ensure network reliability
 
+
 ## Education
 - Master In Computer Science (MCS) At Texas International College, Siphal-Kathmandu (Graduated 2023)
 - Bachelor In Computer Network and Technology (BCS) At Texas International College, Siphal-Kathmandu (Graduated 2021)
 - 10+2 Higher Studies At Nepalaya College, Kalanki-Mandir, Kathmandu (Completed 2017)
 - SLC At Shree Bhagwati Higher Secondary School, Wagla-7, Gulmi (Completed 2015)
+
 
 ## Certifications
 - CCNA Training From Laba Nepal
