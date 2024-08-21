@@ -2,9 +2,7 @@
 Teku, Kathmandu | nengineer02@gmail.com
 
 ## Professional Summary
-Experienced IT professional with a strong background in Network Engineering, System Administration, and Cloud/DevOps technologies. Skilled in AWS services, Infrastructure as Code, containerization, and CI/CD pipelines. Adept at managing complex IT infrastructures and implementing innovative solutions to improve system efficiency and reliability. I'm currently learning advanced AWS services, Kubernetes orchestration, and improving my Infrastructure as Code skills with Terraform. I'm looking to collaborate on open-source DevOps projects, cloud migration initiatives, and innovative networking solutions. 
-- How to reach me: nengineer02@gmail.com or connect with me on linkedin also.
-- Fun fact: I've managed to seamlessly transition from Network Engineering to Cloud and DevOps, bringing a unique perspective to cloud infrastructure management!
+Experienced IT professional with a strong background in Network Engineering, System Administration, and Cloud/DevOps technologies. Skilled in AWS services, Infrastructure as Code, containerization, and CI/CD pipelines. Adept at managing complex IT infrastructures and implementing innovative solutions to improve system efficiency and reliability. I'm currently learning advanced AWS services, Kubernetes orchestration, and improving my Infrastructure as Code skills with Terraform. I've managed to seamlessly transition from Network Engineering to Cloud and DevOps, bringing a unique perspective to cloud infrastructure management. I'm looking to collaborate on open-source DevOps projects, cloud migration initiatives, and innovative networking solutions. 
 
 ## Skills
 - **Cloud Services**: AWS (EC2, S3, IAM, CloudWatch, RDS, DynamoDB, VPC, CloudFront, CloudTrail, Elastic Beanstalk, CloudFormation)
