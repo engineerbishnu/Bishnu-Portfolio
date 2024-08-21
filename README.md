@@ -2,7 +2,7 @@
 Teku, Kathmandu | nengineer02@gmail.com
 
 ## Professional Summary
-Experienced IT professional with a strong background in Network Engineering, System Administration, and Cloud/DevOps technologies. Skilled in AWS services, Infrastructure as Code, containerization, and CI/CD pipelines. Adept at managing complex IT infrastructures and implementing innovative solutions to improve system efficiency and reliability. I'm currently learning advanced AWS services, Kubernetes orchestration, and improving my Infrastructure as Code skills with Terraform. I've managed to seamlessly transition from Network Engineering to Cloud and DevOps, bringing a unique perspective to cloud infrastructure management. I'm looking to collaborate on open-source DevOps projects, cloud migration initiatives, and innovative networking solutions. 
+Experienced IT professional with a solid foundation in Network Engineering, System Administration, and Cloud/DevOps technologies. Proficient in AWS, IaC, containerization, and CI/CD pipelines. Currently enhancing skills in advanced AWS, Kubernetes, and Terraform. My background in both Network Engineering and Cloud/DevOps offers a unique perspective on infrastructure management. Seeking opportunities to collaborate on open-source DevOps projects, cloud migration, and innovative networking solutions.
 
 ## Skills
 - **Cloud Services**: AWS (EC2, S3, IAM, CloudWatch, RDS, DynamoDB, VPC, CloudFront, CloudTrail, Elastic Beanstalk, CloudFormation)
@@ -56,8 +56,8 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 - Troubleshoot complex network issues, Guide team and provide training or KTS sessions
 - Collaborated with cross-functional teams to ensure network reliability
 
-
 ## Education
+
 - Master In Computer Science (MCS) At Texas International College, Siphal-Kathmandu (Graduated 2023)
 - Bachelor In Computer Network and Technology (BCS) At Texas International College, Siphal-Kathmandu (Graduated 2021)
 - 10+2 Higher Studies At Nepalaya College, Kalanki-Mandir, Kathmandu (Completed 2017)
@@ -65,6 +65,7 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 
 
 ## Certifications
+
 - CCNA Training From Laba Nepal
 - CSI Linux (Certified)
 - CEH, Ethical Hacking Training from Laba Nepal
@@ -73,8 +74,12 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 - Monitoring With DataDog 101 (Taken from DataDog Learning Portal)
 
 ## Languages
+
 - English (Fluent)
 - Nepali (Native)
+- Hindi (Fluent)
 
 ## References
+
 Available upon request
+
