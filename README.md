@@ -10,9 +10,10 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 - **Containerization & Orchestration**: Docker, Kubernetes, EKS
 - **CI/CD**: Jenkins, GitHub Actions
 - **Version Control**: Git
-- **Operating Systems**: Linux
+- **Operating Systems**: Linux, Windows, Windows Server, Mac
 - **Web Technologies**: Web servers, APIs
 - **Networking**: Advanced knowledge of network protocols and architectures
+- **System Monitoring**: Advanced knowledge on Monitoring tools like Prometheus, Grafana, DataDog, New Relicc, ELK stack, OpenSearch
 
 ## Professional Experience
 
@@ -22,6 +23,7 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 - Developing Infrastructure as Code using Terraform
 - Working with containerization technologies (Docker, Kubernetes)
 - Collaborating on CI/CD pipelines using Jenkins and GitHub Actions
+- Collaborating on Monitoring using Prometheus, Grafana, ELK stack, DataDog & New Relic
 
 ### System Administrator
 **Cloudsewa Nepal, Teku-Near Sukraraj Hospital, Kathmandu** | 1-2 years
@@ -42,9 +44,12 @@ Experienced IT professional with a strong background in Network Engineering, Sys
 **At Texas International College, Siphal-Kathmandu 2023**
 
 ## Certifications
-- CCNA (Taken Training From LAVA Nepal)
+- CCNA Training From Laba Nepal
 - CSI Linux (Certified)
+- CEH, Ethical Hacking Training from Laba Nepal
+- CEH v11 Course Completed from College
 - AWS Certified Cloud Practitioner (Studied from Coursera/Udemy and Cloudacademy)
+- Monitoring With DataDog 101 (Taken from DataDog Learning Portal)
 
 ## Languages
 - English (Fluent)
