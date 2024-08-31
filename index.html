@@ -11,55 +11,38 @@
             margin: 0;
             padding: 0;
             color: #333;
-            scroll-behavior: smooth;
         }
-        /* Navigation Bar */
-        nav {
-            background-color: #005f99;
-            position: fixed;
-            width: 100%;
-            top: 0;
-            left: 0;
-            z-index: 1000;
-        }
-        nav ul {
-            list-style: none;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-        }
-        nav ul li {
-            margin: 0;
-        }
-        nav ul li a {
-            display: block;
-            padding: 15px 20px;
-            color: #fff;
-            text-decoration: none;
-            transition: background 0.3s;
-        }
-        nav ul li a:hover {
-            background-color: #003f66;
-        }
-        /* Header */
         header {
             background-color: #005f99;
             color: #fff;
-            padding: 100px 20px 60px 20px; /* Added top padding to account for fixed nav */
+            padding: 20px 0;
             text-align: center;
         }
         header h1 {
             margin: 0;
             font-size: 2.5em;
         }
-        /* Container */
+        nav {
+            background-color: #333;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 1.2em;
+            margin: 0 5px;
+        }
+        nav a:hover {
+            background-color: #005f99;
+            border-radius: 5px;
+        }
         .container {
             width: 80%;
             margin: 0 auto;
             padding: 20px 0;
         }
-        /* Section Titles */
         .section-title {
             font-size: 1.8em;
             color: #005f99;
@@ -67,11 +50,20 @@
             border-bottom: 2px solid #005f99;
             padding-bottom: 5px;
         }
-        /* Sections */
-        section {
-            margin-bottom: 60px;
+        .section-content {
+            margin-bottom: 30px;
         }
-        /* Skills */
+        .about-section {
+            display: flex;
+            align-items: center;
+        }
+        .about-section img {
+            border-radius: 50%;
+            margin-right: 20px;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
         .skills ul {
             list-style-type: none;
             padding: 0;
@@ -82,7 +74,6 @@
             margin: 5px 0;
             border-radius: 5px;
         }
-        /* Footer */
         footer {
             background-color: #005f99;
             color: #fff;
@@ -90,187 +81,75 @@
             padding: 10px 0;
             margin-top: 20px;
         }
-        /* Responsive */
-        @media (max-width: 768px) {
-            nav ul {
-                flex-direction: column;
-            }
-            nav ul li a {
-                text-align: center;
-                padding: 10px;
-            }
-            header {
-                padding: 80px 10px 40px 10px;
-            }
-            .container {
-                width: 95%;
-            }
-        }
     </style>
 </head>
 <body>
 
-<!-- Navigation Bar -->
-<nav>
-    <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about-me">About Me</a></li>
-        <li><a href="#recent-projects">Recent Projects</a></li>
-        <li><a href="#past-projects">Past Projects</a></li>
-        <li><a href="#blogs">Blogs</a></li>
-        <li><a href="#contact">Contact</a></li>
-    </ul>
-</nav>
-
-<!-- Header Section -->
-<header id="home">
+<header>
     <h1>Bishnu Thapa</h1>
     <p>Experienced IT Professional | Network Engineer | Cloud/DevOps Specialist</p>
 </header>
 
-<!-- Main Content Container -->
-<div class="container">
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Me</a>
+    <a href="#recent-projects">Recent Projects</a>
+    <a href="#past-projects">Past Projects</a>
+    <a href="#blogs">Blogs</a>
+</nav>
 
-    <!-- About Me Section -->
-    <section id="about-me">
-        <h2 class="section-title">About Me</h2>
+<div class="container">
+    <!-- Home Section -->
+    <section id="home" class="section-content">
+        <h2 class="section-title">Welcome</h2>
         <p>
-            I am an experienced IT professional with a solid foundation in Network Engineering, System
-            Administration, and Cloud/DevOps technologies. Proficient in AWS, Infrastructure as Code (IaC),
-            containerization, and CI/CD pipelines. Currently enhancing my skills in advanced AWS, Kubernetes,
-            and Terraform. My background in both Network Engineering and Cloud/DevOps offers a unique perspective
-            on infrastructure management. I am passionate about collaborating on open-source DevOps projects,
-            cloud migration, and innovative networking solutions.
+            Welcome to the portfolio website of Bishnu Thapa, an IT professional specializing in Network Engineering, System Administration, and Cloud/DevOps. Here, you'll find details about my skills, recent projects, past experiences, and more. Feel free to explore!
         </p>
     </section>
 
-    <!-- Skills Section -->
-    <section id="skills">
-        <h2 class="section-title">Skills</h2>
-        <div class="skills">
-            <ul>
-                <li>Cloud Services: AWS (EC2, S3, IAM, CloudWatch, RDS, DynamoDB, VPC, CloudFront, etc.)</li>
-                <li>Infrastructure as Code: Terraform</li>
-                <li>Containerization & Orchestration: Docker, Kubernetes, EKS</li>
-                <li>CI/CD: Jenkins, GitHub Actions</li>
-                <li>Version Control: Git</li>
-                <li>Operating Systems: Linux, Windows, Windows Server, Mac</li>
-                <li>Web Technologies: Web servers, APIs</li>
-                <li>Networking: Advanced knowledge of network protocols and architectures</li>
-                <li>System Monitoring: Prometheus, Grafana, DataDog, New Relic, ELK stack, OpenSearch</li>
-            </ul>
+    <!-- About Me Section -->
+    <section id="about" class="section-content about-section">
+        <img src="profile.jpg" alt="Bishnu Thapa">
+        <div>
+            <h2 class="section-title">About Me</h2>
+            <p>
+                I am an IT professional with a solid foundation in Network Engineering, System Administration, and Cloud/DevOps technologies. Proficient in AWS, Infrastructure as Code (IaC), containerization, and CI/CD pipelines. I'm continuously advancing my skills in AWS, Kubernetes, and Terraform. Currently, I'm working at UBA Solutions, contributing to cloud migration projects and enhancing network infrastructure.
+            </p>
         </div>
     </section>
 
-    <!-- Professional Experience Section -->
-    <section id="professional-experience">
-        <h2 class="section-title">Professional Experience</h2>
-        
-        <h3>Cloud and DevOps/SRE Internship at UBA Solutions, Imadole</h3>
-        <p><em>May 2024 - Current</em></p>
-        <ul>
-            <li>Implementing and managing AWS services</li>
-            <li>Developing Infrastructure as Code using Terraform</li>
-            <li>Working with containerization technologies (Docker, Kubernetes)</li>
-            <li>Collaborating on CI/CD pipelines using Jenkins and GitHub Actions</li>
-            <li>Collaborating on Monitoring using Prometheus, Grafana, ELK stack, DataDog & New Relic</li>
-        </ul>
-
-        <h3>System Administrator at Cloudsewa Nepal, Teku</h3>
-        <p><em>June 2022 - June 2023</em></p>
-        <ul>
-            <li>Managed and maintained server infrastructure</li>
-            <li>Implemented security measures and performed system upgrades</li>
-            <li>Troubleshot complex system issues</li>
-            <li>Assisted in cloud migration projects</li>
-        </ul>
-
-        <h3>Network Engineer at Vianet Communication Ltd., Jawalakhel</h3>
-        <p><em>January 2019 - May 2022</em></p>
-        <ul>
-            <li>Designed and implemented network solutions</li>
-            <li>Managed network security and performance</li>
-            <li>Troubleshot complex network issues and provided training sessions</li>
-        </ul>
-    </section>
-
     <!-- Recent Projects Section -->
-    <section id="recent-projects">
+    <section id="recent-projects" class="section-content">
         <h2 class="section-title">Recent Projects</h2>
-        <p>
-            <!-- Add your recent projects here -->
-            <strong>Project Title 1</strong>
-            <p>Brief description of your recent project. Highlight technologies used and your role.</p>
-
-            <strong>Project Title 2</strong>
-            <p>Brief description of another recent project. Highlight achievements and outcomes.</p>
-        </p>
+        <ul>
+            <li><strong>AWS Infrastructure Deployment:</strong> Developed infrastructure as code using Terraform to automate AWS resource provisioning.</li>
+            <li><strong>CI/CD Pipeline Setup:</strong> Collaborated on setting up Jenkins and GitHub Actions pipelines for continuous integration and deployment.</li>
+            <li><strong>Container Orchestration:</strong> Deployed microservices using Docker and Kubernetes on AWS EKS clusters.</li>
+        </ul>
     </section>
 
     <!-- Past Projects Section -->
-    <section id="past-projects">
+    <section id="past-projects" class="section-content">
         <h2 class="section-title">Past Projects</h2>
-        <p>
-            <!-- Add your past projects here -->
-            <strong>Project Title A</strong>
-            <p>Brief description of your past project. Focus on the skills utilized and impact.</p>
-
-            <strong>Project Title B</strong>
-            <p>Brief description of another past project. Mention any challenges overcome.</p>
-        </p>
+        <ul>
+            <li><strong>Network Design at Vianet:</strong> Designed and implemented secure and scalable network solutions for Vianet Communication Ltd.</li>
+            <li><strong>Server Management at Cloudsewa:</strong> Managed and maintained server infrastructure, implemented security measures, and assisted in cloud migration projects.</li>
+        </ul>
     </section>
 
     <!-- Blogs Section -->
-    <section id="blogs">
+    <section id="blogs" class="section-content">
         <h2 class="section-title">Blogs</h2>
-        <p>
-            <!-- Add your blog posts or links here -->
-            <strong>Understanding Kubernetes Basics</strong>
-            <p>A comprehensive guide to getting started with Kubernetes, covering fundamental concepts and best practices.</p>
-
-            <strong>Implementing CI/CD Pipelines with Jenkins</strong>
-            <p>Step-by-step tutorial on setting up continuous integration and deployment pipelines using Jenkins.</p>
-        </p>
-    </section>
-
-    <!-- Education Section -->
-    <section id="education">
-        <h2 class="section-title">Education</h2>
-        <p><strong>Master in Computer Science (MCS)</strong> - Texas International College, Siphal-Kathmandu (Graduated 2023)</p>
-        <p><strong>Bachelor in Computer Network and Technology (BCS)</strong> - Texas International College, Siphal-Kathmandu (Graduated 2021)</p>
-    </section>
-
-    <!-- Certifications Section -->
-    <section id="certifications">
-        <h2 class="section-title">Certifications</h2>
-        <ul>
-            <li>CCNA Training from Laba Nepal</li>
-            <li>CSI Linux (Certified)</li>
-            <li>CEH, Ethical Hacking Training from Laba Nepal</li>
-            <li>AWS Certified Cloud Practitioner</li>
-            <li>Monitoring with DataDog 101</li>
-        </ul>
-    </section>
-
-    <!-- Languages Section -->
-    <section id="languages">
-        <h2 class="section-title">Languages</h2>
-        <ul>
-            <li>English (Fluent)</li>
-            <li>Nepali (Native)</li>
-            <li>Hindi (Fluent)</li>
-        </ul>
+        <p>Stay tuned for my upcoming blog posts where I will share insights on cloud infrastructure, DevOps practices, network engineering, and much more!</p>
     </section>
 
     <!-- Contact Section -->
-    <section id="contact">
+    <section class="section-content">
         <h2 class="section-title">Contact</h2>
         <p>Email: <a href="mailto:nengineer02@gmail.com">nengineer02@gmail.com</a></p>
     </section>
-
 </div>
 
-<!-- Footer -->
 <footer>
     <p>&copy; 2024 Bishnu Thapa | All Rights Reserved</p>
 </footer>
