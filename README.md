@@ -17,21 +17,12 @@ Experienced IT professional with a solid foundation in Network Engineering, Syst
 
 ## Professional Experience
 
-### Cloud and DevOps/SRE Internship
-**UBA Solutions, Imadole** | May 06, 2024 - Current
-- Implementing and managing AWS services
-- Developing Infrastructure as Code using Terraform
-- Working with containerization technologies (Docker, Kubernetes)
-- Collaborating on CI/CD pipelines using Jenkins and GitHub Actions
-- Collaborating on Monitoring using Prometheus, Grafana, ELK stack, DataDog & New Relic
-
-
-### Network Administrator
-**UBA Solutions, Imadole** | July 11, 2023 - Current
+### IT & Network Administrator
+**UBA Solutions, Imadole** | July 11, 2023 - May, 2024
 - Managed and maintained server infrastructure
+- Conducted regular system audits and provided detailed reports to management
+- Collaborated with cross-functional teams to address and resolve IT-related challenges.
 - Implemented security measures and performed system upgrades
-- Troubleshot complex system issues
-- Assisted in cloud migration projects
 - Performed Storage device data loss Recovery, Maintained Operating System Security with antivirus
 - Support Remote employees through on call, remote desktop access utilities
 - Backup and restoration of network devices, servers and production applications
@@ -43,18 +34,23 @@ Experienced IT professional with a solid foundation in Network Engineering, Syst
 **Cloudsewa Nepal, Teku-Near Sukraraj Hospital, Kathmandu** | Jun 01, 2022 - Jun 30, 2023
 - Managed and maintained server infrastructure
 - Implemented security measures and performed system upgrades
-- Troubleshot complex system issues
+- Troubleshoot complex system issues
 - Assisted in cloud migration projects
-- Maintaining Technical Documents, PoCs regarding RCA of system, website related issues.
+- Maintaining Technical Documents, PoCs regarding RCA of system, website related issues
 
 
-### Network Engineer
+### IT Network Expert
 **Vianet Communication Ltd. Jawalakhel** | Jan 01, 2019- May 30, 2022
 - Designed and implemented network solutions
 - Managed network security and performance
 - Virtual Network Design using Zabbix, Monitoring Networking systems such as switchs, routers, Servers
 - Troubleshoot complex network issues, Guide team and provide training or KTS sessions
 - Collaborated with cross-functional teams to ensure network reliability
+- Oversee and maintain the organization’s IT infrastructure, including network systems, servers, and databases
+- Resolve complex technical issues promptly, minimizing downtime and ensuring operational continuity
+- Implement and manage security measures to protect data and IT systems from cyber threats
+- Monitor system performance and make recommendations for improvements to optimize efficiency and effectiveness
+- Provide remote support and training to end-users, enhancing their technical proficiency and productivity
 
 ## Education
 
