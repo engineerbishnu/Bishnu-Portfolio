@@ -2,18 +2,18 @@
 Teku, Kathmandu | nengineer02@gmail.com
 
 ## Professional Summary
-Experienced IT professional with a solid foundation in Network Engineering, System Administration, and Cloud/DevOps technologies. Proficient in AWS, IaC, containerization, and CI/CD pipelines. Currently enhancing skills in advanced AWS, Kubernetes, and Terraform. My background in both Network Engineering and Cloud/DevOps offers a unique perspective on infrastructure management. Seeking opportunities to collaborate on open-source DevOps projects, cloud migration, and innovative networking solutions.
+Highly skilled Information Technology Expert with over 8 years of experience in managing IT infrastructure, resolving technical issues, and implementing security measures. Proven ability to optimize IT systems performance and ensure robust network administration. Strong proficiency in cloud computing, databases, and IT best practices, coupled with excellent communication and problem-solving skills. Adept at working remotely and managing IT operations efficiently.
 
 ## Skills
-- **Cloud Services**: AWS (EC2, S3, IAM, CloudWatch, RDS, DynamoDB, VPC, CloudFront, CloudTrail, Elastic Beanstalk, CloudFormation)
-- **Infrastructure as Code**: Terraform
-- **Containerization & Orchestration**: Docker, Kubernetes, EKS
-- **CI/CD**: Jenkins, GitHub Actions
-- **Version Control**: Git
-- **Operating Systems**: Linux, Windows, Windows Server, Mac
-- **Web Technologies**: Web servers, APIs
-- **Networking**: Advanced knowledge of network protocols and architectures
-- **System Monitoring**: Advanced knowledge on Monitoring tools like Prometheus, Grafana, DataDog, New Relicc, ELK stack, OpenSearch
+- IT Systems Management & Administration
+- Network Administration
+- Cybersecurity
+- Cloud Computing (e.g., Azure, AWS)
+- Database Management
+- Troubleshooting & Problem Solving
+- Remote IT Support
+- Technical Documentation
+- Strong Communication Skills (Nepali, Hindi, & English)
 
 ## Professional Experience
 
